@@ -1,16 +1,29 @@
-## Hi there 👋
+### Olá! Eu sou o Murilo Medeiros.
 
-<!--
-**Murilunss/Murilunss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📖 Estudante de _Análise e desenvolvimento de sistemas_.
 
-Here are some ideas to get you started:
+💻 Atualmente focado em me especializar em **Banco de Dados Corporativos (Oracle, DB2, PostgreSQL, COBOL)** e em práticas de **Big Data & Cloud** aplicadas ao setor financeiro. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projeto SQL
+# Sistema de Biblioteca
+
+Este é um projeto básico de banco de dados para praticar **SQL** e entender **relacionamentos entre tabelas**, consultas e manipulação de dados.
+
+---
+
+# Tecnologias
+- Banco de dados: **PostgreSQL** (também funciona em MySQL)
+- SQL básico: `CREATE`, `INSERT`, `SELECT`, `UPDATE`, `DELETE`
+
+---
+
+# Descrição do Projeto
+O sistema gerencia:
+- **Autores**: nome, nacionalidade e data de nascimento  
+- **Livros**: título, autor, ano de publicação e gênero  
+- **Usuários**: nome, e-mail e telefone  
+- **Empréstimos**: registro de livros emprestados e devoluções  
+
+Este projeto cobre todas as operações básicas de banco de dados, incluindo **joins, filtros, agrupamentos e relacionamentos entre tabelas**.
+
+https://github.com/Murilunss/biblioteca-sql.gi
